@@ -18839,10 +18839,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["ansi-regex", [\
-      ["npm:4.1.0", {\
-        "packageLocation": "./.yarn/cache/ansi-regex-npm-4.1.0-4a7d8413fe-97aa465953.zip/node_modules/ansi-regex/",\
+      ["npm:4.1.1", {\
+        "packageLocation": "./.yarn/cache/ansi-regex-npm-4.1.1-af0a582bb9-b1a6ee44cb.zip/node_modules/ansi-regex/",\
         "packageDependencies": [\
-          ["ansi-regex", "npm:4.1.0"]\
+          ["ansi-regex", "npm:4.1.1"]\
         ],\
         "linkType": "HARD"\
       }],\
@@ -29641,7 +29641,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["pretty-format", "npm:24.9.0"],\
           ["@jest/types", "npm:24.9.0"],\
-          ["ansi-regex", "npm:4.1.0"],\
+          ["ansi-regex", "npm:4.1.1"],\
           ["ansi-styles", "npm:3.2.1"],\
           ["react-is", "npm:16.13.1"]\
         ],\
@@ -32575,7 +32575,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./.yarn/cache/strip-ansi-npm-5.2.0-275214c316-bdb5f76ade.zip/node_modules/strip-ansi/",\
         "packageDependencies": [\
           ["strip-ansi", "npm:5.2.0"],\
-          ["ansi-regex", "npm:4.1.0"]\
+          ["ansi-regex", "npm:4.1.1"]\
         ],\
         "linkType": "HARD"\
       }],\
